@@ -457,7 +457,7 @@ socket.downloadAndSaveMediaMessage = async(message, filename, attachExtension = 
     const captionText = `*👋HY I AM LEHAN-MD MINI💗🍒*´
 ❲ LEHAN-MD MINI ʙᴏᴛ ᴀʟɪᴠᴇ ꜱᴛᴀᴛᴜꜱ 🔥  ❳
 
-║▻ 𝙞 𝙖𝙢 𝙤𝙣𝙡𝙞𝙣𝙚 𝙣𝙤𝙬 👨‍🔧🔥 ◅║
+║▻ I 𝙖𝙢 𝙤𝙣𝙡𝙞𝙣𝙚 𝙣𝙤𝙬 👨‍🔧🔥 ◅║
 
 *╭────◅●💗●▻────➣*
 *┃💗  ʙᴏᴛ ᴜᴘ ᴛɪᴍᴇ ➟* ${hours}h ${minutes}m ${seconds}s ⚡
